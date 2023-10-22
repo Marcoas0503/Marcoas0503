@@ -6,7 +6,7 @@
 
 - 🔭 I am currently working with [Visão Inclusiva](https://github.com/Marcoas0503/Visao_inclusiva)
 
-- 🌱 I’m currently learning **PHP, HTML,JS and SQL**
+- 🌱 I’m currently learning **PHP, HTML, JS and SQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Marcoas0503](https://github.com/Marcoas0503)
 
