@@ -1,4 +1,4 @@
-![banner](https://github.com/Marcoas0503/Marcoas0503/issues/1#issue-2056787999)
+![banner](https://github.com/Marcoas0503/Marcoas0503/assets/116082533/e298a930-15a3-449b-a58a-087f41d5616f)
 <h1 align="center">Hi 👋, I'm Marcos Henrique silva de camargo</h1>
 <h3 align="center">Here you will find all my projects, both learning and more advanced.</h3>
 
