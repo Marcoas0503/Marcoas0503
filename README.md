@@ -1,4 +1,9 @@
 ![banner](https://github.com/Marcoas0503/Marcoas0503/assets/116082533/ef0bfb5d-e2c1-48b0-bbdb-24d8bef3b0ba)
+
+<div align="center">
+<img src="https://github.com/Marcoas0503/Marcoas0503/assets/116082533/ef0bfb5d-e2c1-48b0-bbdb-24d8bef3b0ba" width="700px" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Marcos Henrique silva de camargo</h1>
 <h3 align="center">Here you will find all my projects, both learning and more advanced.</h3>
 
