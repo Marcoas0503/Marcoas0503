@@ -1,5 +1,3 @@
-![banner](https://github.com/Marcoas0503/Marcoas0503/assets/116082533/ef0bfb5d-e2c1-48b0-bbdb-24d8bef3b0ba)
-
 <div align="center">
 <img src="https://github.com/Marcoas0503/Marcoas0503/assets/116082533/ef0bfb5d-e2c1-48b0-bbdb-24d8bef3b0ba" width="700px" />
 </div>
